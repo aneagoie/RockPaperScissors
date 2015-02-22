@@ -1,2 +1,2 @@
 # RockPaperScissors
-Javascript game
+Learning Javascript basics.
